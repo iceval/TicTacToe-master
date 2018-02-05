@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c0f714d80f240916a59363cb13692c61217156ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_b9c9f134b701658668d291cb2f0be1e9f83be14f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_ac11a642a4f98b43db0ce91ae61e4c3b803f7740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_2a181f4d2f65d12fc16e5f5f3a47ef65b86ba1c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_141aa8d34b1ecb8d345689bf5df5f1678db79a49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/WORK/SDK/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_cd3f39c4b05779177a503f4c87e3b828fa3e75cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/student2/Рабочий стол/TicTacToe-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_ba31003f1dd723df0b9cdcbe3f9458952adc6614.jar" />
+    </item>
+
+</items>
